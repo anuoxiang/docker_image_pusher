@@ -1,6 +1,11 @@
-nginx
-#支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
-#支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+mongo:7.0
+node:20-alpine3.19
+ubuntu:22.04
+alpine:3.19
+mongo:5.0
+nginx:stable-alpine3.19
+elasticsearch:7.17.22
+kibana:7.17.22
+postgres:16.3-alpine3.19
+neo4j:5.20-community-bullseye
+redis:7.2-alpine3.19
