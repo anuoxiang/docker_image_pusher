@@ -12,3 +12,4 @@ neo4j:5.20-community-bullseye
 redis:7.2-alpine3.19
 registry:2.8.3
 node:24-alpine3.22
+python:3.14-slim
